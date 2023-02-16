@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Tworyes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tworye01)](https://github.com/Tworye01/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tworye01&langs_count=8)](https://github.com/Tworye01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tworye01)](https://github.com/Tworye01/github-readme-stats)
